@@ -1,4 +1,5 @@
 package Estrutura;
+
 import java.util.Scanner;
 
 public class atividade1 {
